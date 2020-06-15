@@ -1,0 +1,16 @@
+{
+    "name": "Hacker News",
+    "short_name": "HN",
+    "description": "Learn how to create and share something or other.",
+    "start_url": "/?homescreen=1",
+    "background_color": "#000000",
+    "theme_color": "#0f4a73",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://www.smartphonevirus.com/images/site/256x256-smartphonevirus.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ]
+}
